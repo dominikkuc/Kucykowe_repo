@@ -1,4 +1,4 @@
-Git - eat s**t
+Git - eat s**t (Cheat sheet)
 ----------------------
 [Github](https://github.com):
 1. Add empty git repo
